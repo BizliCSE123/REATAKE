@@ -1,6 +1,6 @@
 # REATAKE
 
-##Assigment 0:Markdown
+Assigment 0:Markdown
 ---
 You have to write Markdown 
 --- 
